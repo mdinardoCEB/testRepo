@@ -55,6 +55,7 @@ public class CopyObject {
 	}
 	
 	public String getBankName() {
+// Changed
 		return this.bankName;
 	}
 	
